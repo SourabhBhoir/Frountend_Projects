@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(0, 255, 200);
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(0, 140, 255);
+    outline: none;
+}
+
+button{
+    width: 60px;
+    height: 41px;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 2px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+
+}
+
+.text{
+    position: relative;
+    background-color: black;
+    color: white;
+    font-size: 19px;
+    text-align: left;
+}
+
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
